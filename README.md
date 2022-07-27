@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Himel Sarker</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="center" alt="Coding" width="450" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+<img  alt="Coding" width="450" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himel-sarker&label=Profile%20views&color=0e75b6&style=flat" alt="himel-sarker" /> </p>
 
