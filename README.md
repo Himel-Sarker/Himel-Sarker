@@ -1,5 +1,5 @@
 
-[![MasterHead](https://shashwatco.com/wp-content/themes/shashwat/assets/img/shashwatProcess.gif)]
+![MasterHead](https://shashwatco.com/wp-content/themes/shashwat/assets/img/shashwatProcess.gif)
 
 <h1 align="center">Hi 👋, I'm Himel Sarker</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
