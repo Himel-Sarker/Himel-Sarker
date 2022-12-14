@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Php, laravel, React etc**
 
-- 📫 How to reach me **himelsarker85@gmail,com**
+- 📫 How to reach me **himelsarker85@gmail.com**
 
 - ⚡ Fun fact **I think am Funny**
 
